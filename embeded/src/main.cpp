@@ -4,7 +4,7 @@
 #include <ArduinoJson.h>
 #include "secret.h" 
 
-#define endpoint "jw-lab6-api.onrender.com"
+#define endpoint "https://jw-lab-6-api.onrender.com"
 
 #define fanPin 22
 #define lightPin 23
