@@ -4,8 +4,6 @@ import pydantic
 from bson import ObjectId
 from fastapi.middleware.cors import CORSMiddleware
 import  datetime 
-from datetime import timedelta
-import time
 import pytz
 
 import requests
